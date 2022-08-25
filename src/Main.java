@@ -7,5 +7,6 @@ public class Main {
 
         StoreHause Ar = new StoreHause();
         Ar.PtintHi();
+        System.out.println("lol");
     }
 }
